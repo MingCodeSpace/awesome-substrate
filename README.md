@@ -139,6 +139,7 @@ Showcasing projects built on Substrate
 - Agora.Trade - a cryptocurrency exchange for non-custodial trading ([Website](https://agora.trade](https://agora.trade/)))
 - Evolution Land - a virtual management game based on blockchain ([Github](https://github.com/evolutionlandorg/darwinia-appchain))
 - KatalChain - standard framework for DeFi ([Github](https://github.com/Trinkler/katal-chain))
+- substraTEE - a privacy-enhancing 2nd layer for substrate chains based on TrustedExecutionEnvironments (TEE) ([Github](https://github.com/scs/substraTEE))
 
 [source](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
